@@ -1,12 +1,12 @@
-# Aspiring Ethical Hacker | Cybersecurity Enthusiast
+# Aspiring Coder |
 
-🔍 Passionate about uncovering vulnerabilities and securing digital environments. Always learning and growing in the field of cybersecurity. Dedicated to ethical hacking and committed to protecting systems and data from threats.
+🔍 Learning and growing in the field.
 
-🚀 Currently exploring penetration testing, security best practices.
+🚀 Currently exploring cybsec and best practices.
 
-🔧 Let's collaborate on securing the digital world!  
+🔧 Let's collaborate!  
 
-🕵️ [Hackthebox](https:///app.hackthebox.com/profile/1327682) profile.
+🕵️
 
   
 ![Ojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojo5&show_icons=true&theme=radical)
