@@ -20,4 +20,4 @@
 - 🎯 **Goal:** Transitioning from an aspiring coder to a Security Engineer.
 ---
 ### ⚔️ Coding Challenges
-[![Github Readme Codewars](https://www.codewars.com/users/h4yy/badges/large)](https://www.codewars.com/users/h4yy/)
+[![Github Readme Codewars](https://www.codewars.com/users/ojo5/badges/large)](https://www.codewars.com/users/ojo5/)
