@@ -1,16 +1,23 @@
-# Aspiring Coder |
+# Hi there, I'm Ojo 👋
 
-🔍 Learning and growing in the field.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" />
+</p>
 
-🚀 Currently exploring cybsec and best practices.
+### 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-🔧 Let's collaborate!  
+---
 
-🕵️
-
-  
-![Ojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojo5&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojo5&langs_count=6)  
-
-CodeWars:  
+### 🔍 About Me
+- 🚀 **Currently:** Deep diving into Cybersecurity and Pen-testing best practices.
+- 🎓 **Learning:** Network security, Python for automation, and Linux hardening.
+- 🔧 **Collaboration:** Open to collaborating on open-source security tools or coding projects.
+- 🎯 **Goal:** Transitioning from an aspiring coder to a Security Engineer.
+---
+### ⚔️ Coding Challenges
 [![Github Readme Codewars](https://www.codewars.com/users/h4yy/badges/large)](https://www.codewars.com/users/h4yy/)
