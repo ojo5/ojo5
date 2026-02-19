@@ -14,10 +14,10 @@
 ---
 
 ### 🔍 About Me
-- 🚀 **Currently:** Deep diving into Cybersecurity and Pen-testing best practices.
-- 🎓 **Learning:** Network security, Python for automation, and Linux hardening.
+- 🚀 **Currently:** Deep diving into WebDev.
+- 🎓 **Learning:** Network security, and Linux hardening.
 - 🔧 **Collaboration:** Open to collaborating on open-source security tools or coding projects.
-- 🎯 **Goal:** Transitioning from an aspiring coder to a Security Engineer.
+- 🎯 **Goal:** Learn more and more and more
 ---
 ### ⚔️ Coding Challenges
 [![Github Readme Codewars](https://www.codewars.com/users/ojo5/badges/large)](https://www.codewars.com/users/ojo5/)
