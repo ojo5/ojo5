@@ -1,6 +1,6 @@
 # Hi there, I'm Ojo 👋
 
-<p align="left">
+<p align="right">
   <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" />
 </p>
@@ -13,10 +13,8 @@
 ---
 
 ### 🔍 About Me
-- 🚀 **Currently:** Multiple projects.
-- 🎓 **Learning:** Logic, Network security and WebDev.
-- 🔧 **Collaboration:** Open to collaborating on open-source tools or coding projects.
+- 🚀 **Currently:** Vibe coding
+- 🎓 **Learning:** Logic
+- 🔧 **Collaboration:** Open to collaborating on coding projects.
 - 🎯 **Goal:** Learn more and more and more
 ---
-### ⚔️ Coding Challenges
-[![Github Readme Codewars](https://www.codewars.com/users/ojo5/badges/large)](https://www.codewars.com/users/ojo5/)
